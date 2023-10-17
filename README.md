@@ -5,6 +5,6 @@ Usage: ```wwie.exe [url]```
 
 Example: ```wwie.exe https://www.google.com```
 
-# Support
+# Alternatives
 
-[!["Buy Me A Beer"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/paaaulz)
+[LaunchIE by LesFerch (COM Method)](https://github.com/LesFerch/LaunchIE)
